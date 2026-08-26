@@ -1,4 +1,5 @@
-# Proyecto SENA — [Nombre de tu Proyecto]
+# Proyecto SENA — ALFA
+
 
 Aquí se encuentra alojado mi proyecto del SENA, el cual trata sobre **[escribe aquí una breve descripción de lo que hace tu aplicación, ej: un sistema de gestión de inventarios, una plataforma web de servicios, etc.]**.
 
